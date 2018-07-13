@@ -20,18 +20,15 @@ Kate Isaacs, University of Arizona
 
 ## Program Committee
 
-To Be Announced
+Harsh Bhatia, Lawrence Livermore National Laboratory\\
+Holger Brunst, TU Dresden\\
+Alexandru Calotoiu, Technical University Darmstadt\\
+Todd Gamblin, Lawrence Livermore National Laboratory\\
+Judit Gimenez, Barcelona Supercomputing Center\\
+Marc-Andre Hermanns, Juelich Supercomputing Center\\
+Joshua A. Levine, University of Arizona\\
+Yarden Livnat, University of Utah\\
+Naoya Maruyama, Lawrence Livermore National Laboratory\\
+Matthias Mueller, RWTH Aachen University\\
+Paul Rosen, University of South Florida\\
 
-<br />
-<br />
-
-
-<div style="text-align:center;">
-  <img style="height: 50px;" src="img/logo_es-1-700x188.jpg" />
-  &nbsp;  &nbsp;  &nbsp;  &nbsp;
-  <img style="height: 50px;" src="img/llnl.png" />
-  &nbsp;  &nbsp;  &nbsp;  &nbsp;
-  <img style="height: 50px;" src="img/ua_horiz_rgb.png" />
-  &nbsp;  &nbsp;  &nbsp;  &nbsp;
-  <img style="height: 50px;" src="img/Duisburg-Essen.png" />
-</div>
