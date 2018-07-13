@@ -30,5 +30,5 @@ Joshua A. Levine, University of Arizona\\
 Yarden Livnat, University of Utah\\
 Naoya Maruyama, Lawrence Livermore National Laboratory\\
 Matthias Mueller, RWTH Aachen University\\
-Paul Rosen, University of South Florida\\
+Paul Rosen, University of South Florida
 
