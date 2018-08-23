@@ -26,6 +26,7 @@ Alexandru Calotoiu, Technical University Darmstadt\\
 Todd Gamblin, Lawrence Livermore National Laboratory\\
 Judit Gimenez, Barcelona Supercomputing Center\\
 Marc-Andre Hermanns, Juelich Supercomputing Center\\
+Aaditya Landge, Twitter, Inc.\\
 Joshua A. Levine, University of Arizona\\
 Yarden Livnat, University of Utah\\
 Naoya Maruyama, Lawrence Livermore National Laboratory\\
